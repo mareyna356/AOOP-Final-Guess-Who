@@ -14,7 +14,7 @@ The server will print "Esperando cliente." ("Waiting for client.") on console wh
 To run the game, execute [Menu.java](AdivinaQuien/src/adivinaquien/Menu.java).
 
 ### Main menu
-When the game executes, you will see the main menu. Here, you can input your name and select the type of match to start: a singleplayer/PvE match against the server ("vs Bot" button) or a multiplayer/PvP match against another user ("Unirse a Server" button, Spanish for "Join Server").
+When the game executes, you will see the main menu. Here, you can input your name and select the type of match to start: a singleplayer/PvE match against the server ("vs Bot" button) or a multiplayer/PvP match against another user ("Unirse a Server" button, Spanish for "Join Server").  
 ![image](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/5440147d-c59e-4a89-bce7-c8bda5af2251)
 
 ### Singleplayer/PvE
