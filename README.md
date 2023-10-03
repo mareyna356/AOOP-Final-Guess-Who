@@ -1,5 +1,3 @@
-## README under construction
-
 # AOOP-Final-Guess-Who
 My final exam for my Advanced Object Oriented Programming course during my 3rd semester at the Autonomous University of Baja California (August - December, 2019): a Guess Who (in Spanish: Adivina Quién) with singleplayer and online multiplayer. Made with Java in Apache NetBeans. The game utilizes Swing, Threads, Sockets, and the Model-View-Controller design pattern.
 
@@ -41,3 +39,11 @@ _"You were wrong, my character is Eric"_
 Once the match is over, you'll automatically return to the [Main Menu](#main-menu). The results of the match are stored in a file called "Resultados.txt" ("Results.txt") in the [AdivinaQuien](AdivinaQuien) folder. The file contains the name of the player, the amount of questions asked in the match and if the player won or lost.
 
 ### Multiplayer/PvP
+To start a multiplayer match, you need to input the server's IP ("Host:") and its port ("Puerto:"). As I've mentioned previously, the server's default port is 5555. The match will start when two different players have joined the server.  
+![image](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/f951baf2-8195-4781-b55b-481380b018d9)
+
+
+
+![272111399-6af6f68b-2886-4584-ab23-cebb7b9dc00e](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/0a65276c-5c3e-4323-84df-cdde04999308)
+
+![272111435-518fee4e-6caf-4c6f-a1d5-65557b555f85](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/a1bc77d0-eada-4736-aa90-d2b76c5c37dd)
