@@ -58,7 +58,7 @@ _Top (player guessing): You didn't guess it correctly! Their character was Anne.
 _Bottom (opponent): Your opponent guessed your character incorrectly! You win by default. Their character was Tom._
 
 If you guess your opponent's character correctly, you will get a message informing you of that. Your opponent will also get a message informing them about your guess and revealing your character.  
-![272111435-518fee4e-6caf-4c6f-a1d5-65557b555f85](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/a1bc77d0-eada-4736-aa90-d2b76c5c37dd)
+![272111435-518fee4e-6caf-4c6f-a1d5-65557b555f85](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/a1bc77d0-eada-4736-aa90-d2b76c5c37dd)  
 _Top (player guessing): You guessed correctly! You're the winner._  
 _Bottom (opponent): Your opponent guessed your character correctly! Their character was Anita._
 
