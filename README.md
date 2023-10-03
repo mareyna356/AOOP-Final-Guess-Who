@@ -50,8 +50,16 @@ _The initial board._
 
 The player that gets to ask the first question at the beginning of the match is the player that joined the server first. To ask a question, you have to type it in the text field below "Tu:" ("You:") and press the "Preguntar" ("Ask") button. When the opponent answers the question, the answer will appear in the text field below "Oponente:" ("Opponent:"), followed by the opponent's question. To answer the opponent's question, you have to type your answer in the same text field where you make your questions (the one below "Tu:") and press the "Responder" ("Answer") button; the "Responder" button is the same button as the "Preguntar" button, but its name changes depending on the action that you have to do at the time. Once you answer the opponent's question, you can make your next question the same way you did it the first time, and so on. Unlike in singleplayer, in multiplayer there is no limit to the amount of questions any player can ask.
 
-In the bottom of the window, next to "Adivinación:" ("Guess:"), is the list of names used to guess the opponent's character. When you're ready to try to guess the opponent's character, select the desired name and press the "Adivina" ("Guess") button. The "Adivina" button is only enabled after answering the opponent's question but before making your own question; if you ask your next question to the opponent, the button becomes disabled until you answer the opponent's next question.
+In the bottom of the window, next to "Adivinación:" ("Guess:"), is the list of names used to guess the opponent's character. When you're ready to try to guess the opponent's character, select the desired name and press the "Adivina" ("Guess") button. The "Adivina" button is only enabled after answering the opponent's question but before making your own question; if you ask the opponent your next question, the button becomes disabled until you answer the opponent's next question, so everytime it's your turn you have to choose between making a guess and asking another question.
 
-![272111399-6af6f68b-2886-4584-ab23-cebb7b9dc00e](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/0a65276c-5c3e-4323-84df-cdde04999308)
+If you guess your opponent's character incorrectly, you will get a message informing you of that and revealing the correct character. Your opponent will also get a message informing them about your incorrect guess and revealing your character.  
+![272111399-6af6f68b-2886-4584-ab23-cebb7b9dc00e](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/0a65276c-5c3e-4323-84df-cdde04999308)  
+_Top (player guessing): You didn't guess it correctly! Their character was Anne._  
+_Bottom (opponent): Your opponent guessed your character incorrectly! You win by default. Their character was Tom._
 
+If you guess your opponent's character correctly, you will get a message informing you of that. Your opponent will also get a message informing them about your guess and revealing your character.  
 ![272111435-518fee4e-6caf-4c6f-a1d5-65557b555f85](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/a1bc77d0-eada-4736-aa90-d2b76c5c37dd)
+_Top (player guessing): You guessed correctly! You're the winner._  
+_Bottom (opponent): Your opponent guessed your character correctly! Their character was Anita._
+
+Just like in a singleplayer match, once the match is over you'll automatically return to the [Main Menu](#main-menu) and the results of the match are stored in the "Resultados.txt" file. The file contains the name of the player, the amount of questions asked in the match and if the player won or lost.
