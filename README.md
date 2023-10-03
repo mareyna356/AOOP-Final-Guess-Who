@@ -42,6 +42,11 @@ Once the match is over, you'll automatically return to the [Main Menu](#main-men
 To start a multiplayer match, you need to input the server's IP ("Host:") and its port ("Puerto:"). As I've mentioned previously, the server's default port is 5555. The match will start when two different players have joined the server.  
 ![image](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/f951baf2-8195-4781-b55b-481380b018d9)
 
+The objective and rules of a multiplayer match are the same as in the traditional tabletop Guess Who. Each player takes turns asking each other questions about their characters
+
+Both players will have similar boards. The board will contain the characters to hide and reveal by clicking on them, the player's randomly-selected character that the opponent has to guess, a text field where the player can type questions for the opponent and answer the opponent's questions, a text field that shows the opponent's answers and questions, and the list of names with which to try to guess the opponent's character.
+![image](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/22f8337f-fa27-447a-98c1-2aba72565857)  
+_The initial board._
 
 
 ![272111399-6af6f68b-2886-4584-ab23-cebb7b9dc00e](https://github.com/mareyna356/AOOP-Final-Guess-Who/assets/116867368/0a65276c-5c3e-4323-84df-cdde04999308)
