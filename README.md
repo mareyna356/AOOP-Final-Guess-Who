@@ -62,4 +62,4 @@ If you guess your opponent's character correctly, you will get a message informi
 _Top (player guessing): You guessed correctly! You're the winner._  
 _Bottom (opponent): Your opponent guessed your character correctly! Their character was Anita._
 
-Just like in a singleplayer match, once the match is over you'll automatically return to the [Main Menu](#main-menu) and the results of the match are stored in the "Resultados.txt" file. The file contains the name of the player, the amount of questions asked in the match and if the player won or lost.
+Just like in a singleplayer match, once the match is over you'll automatically return to the [Main Menu](#main-menu) and your results in the match are stored in the "Resultados.txt" file. The file contains your player name, the amount of questions you asked in the match and if you won or lost.
